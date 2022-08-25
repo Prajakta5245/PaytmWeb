@@ -1,3 +1,2 @@
 # PaytmClone
-# Project 3
- ## **Live link:** **[Project 3](https://gorgeous-liger-e5430b.netlify.app/)**
+## **Live link:** **[Paytm Clone](https://gorgeous-liger-e5430b.netlify.app/)**
